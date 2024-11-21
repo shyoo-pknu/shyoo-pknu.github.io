@@ -2,7 +2,6 @@
 layout: post
 title: Opensource Post Test
 subtitle: Test
-gh-repo: shyoo-pknu/shyoo.pknu.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
